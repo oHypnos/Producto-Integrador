@@ -1,4 +1,4 @@
-script de PowerShell que realiza un escaneo de red dentro de una subred específica. A continuación, se muestra un resumen de las acciones principales del script:
+Este script de PowerShell que realiza un escaneo de red dentro de una subred específica. A continuación, se muestra un resumen de las acciones principales del script:
 
 
 1.-Obtiene la dirección IP del gateway.
