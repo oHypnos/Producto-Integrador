@@ -1,5 +1,7 @@
 El script es un programa en Python que utiliza el módulo python-nmap para realizar diferentes tipos de escaneo de red. 
+
 [Script](EscanerdePuertos.py)
+
 Proporciona un menú con las siguientes opciones:
 
 Escaneo UDP: Realiza un escaneo de puertos UDP en un objetivo especificado por el usuario.
