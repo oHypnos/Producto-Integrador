@@ -1,5 +1,5 @@
 Este script de PowerShell que realiza un escaneo de red dentro de una subred específica. A continuación, se muestra un resumen de las acciones principales del script:
-https://github.com/oHypnos/Producto-Integrador/blob/79b65312d926ce333f54f86c6624c95629e21a20/Scripting%20en%20Powershell/scan_alivev1.ps1
+[Primer Script](https://github.com/oHypnos/Producto-Integrador/blob/79b65312d926ce333f54f86c6624c95629e21a20/Scripting%20en%20Powershell/scan_alivev1.ps1)
 
 1.-Obtiene la dirección IP del gateway.
 
