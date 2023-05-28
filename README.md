@@ -17,4 +17,4 @@ Este repositorio está destinado a almacenar los trabajos prácticos realizados 
 - [Escaner de Puertos](Practica3.md): En esta practica, se realiza un script en Python que realizar escaneos, proporciona una interfaz interactiva para realizar diferentes tipos de escaneo de red utilizando el modulo Python-namp.
 
 
-- [Envio de Correos](Practica4.md):
+- [Envio de Correos](Practica4.md): Este script utiliza el módulo smtplib para enviar un correo electrónico a través de SMTP y adjuntar una imagen.
