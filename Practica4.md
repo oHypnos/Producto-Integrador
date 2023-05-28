@@ -1,4 +1,4 @@
-Este [Script]
+En este [Script](Enviodecorreos.py)
 
 Se importan los módulos necesarios: smtplib para enviar el correo, y las clases MIMEMultipart, MIMEText y MIMEImage del módulo email.mime para configurar el contenido del correo.
 
