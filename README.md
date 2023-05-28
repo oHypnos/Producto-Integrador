@@ -8,7 +8,7 @@ Este repositorio está destinado a almacenar los trabajos prácticos realizados 
 
 ## Prácticas
 
-- [Script en PowerShell](Practica1.md): En esta práctica, se aborda el análisis de datos utilizando técnicas de visualización y manipulación de datos en Python.
-- [WebScraping](practica2/README.md): La práctica 2 se centra en la implementación de algoritmos de aprendizaje automático utilizando bibliotecas populares como scikit-learn.
+- [Script en PowerShell](Practica1.md): En esta práctica, es un script de PowerShell que realiza un escaneo de red dentro de una subred específica.
+- [WebScraping](practica2/README.md): La práctica 2 se centra en la extraccion de  información sobre trabajos relacionados con Python de un sitio web falso.
 - [Escaner de Puertos](practica3/README.md)
 - [Envio de Correos](Practica4/README.md)
