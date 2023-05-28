@@ -19,6 +19,7 @@ El objetivo principal del script es realizar un escaneo de red y mostrar los hos
 
 El segundo script es un script de PowerShell que escanea los equipos activos en una subred específica utilizando el gateway como punto de partida. 
 
+[Segundo Script](scan_alivev2.ps1)
 
 1.-Obtiene la dirección IP del gateway y la muestra.
 
