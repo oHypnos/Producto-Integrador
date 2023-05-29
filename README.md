@@ -11,6 +11,8 @@ Este repositorio está destinado a almacenar los trabajos prácticos realizados 
 - [Script en PowerShell](Practica1.md): En esta práctica, es un script de PowerShell que realiza un escaneo de red dentro de una subred específica.
 
 
+- [Scripting en BASH](Practica5.md): El script "superscan.sh" es un menú interactivo que ofrece varias opciones al usuario. Cada opción ejecuta un comando o script diferente. Después de cada opción, se espera a que el usuario presione Enter para continuar. El menú se repite hasta que se seleccione la opción de salida.
+
 - [WebScraping](Practica2.md): La práctica 2 se centra en la extraccion de  información sobre trabajos relacionados con Python de un sitio web falso.
 
 
