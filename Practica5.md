@@ -1,4 +1,4 @@
-l script [superscan.sh](scriptbash.sh):
+El script [superscan.sh](scriptbash.sh):
 
 #!/bin/bash: Esto es la línea shebang y especifica que el script será interpretado por el intérprete de comandos bash.
 
